@@ -1,0 +1,35 @@
+.form {
+  font-size: 20px;
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+}
+.formInput {
+  width: 200px;
+  height: 20px;
+}
+.subButton {
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+}
+.subButton:hover {
+  cursor: pointer;
+  background-color: antiquewhite;
+}
+.contactItem {
+  display: flex;
+  gap: 20px;
+  margin: 15px;
+}
+.contact {
+  font-weight: 100;
+  font-size: 30px;
+}
+.filtere {
+  margin-top: 10px;
+}
+.filterInput {
+  width: 200px;
+  height: 20px;
+}
